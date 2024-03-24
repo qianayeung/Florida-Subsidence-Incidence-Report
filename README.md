@@ -1,4 +1,5 @@
-# Matplotlib Gallery - Florida Subsidence Incidence Report
+# Matplotlib Gallery - Florida Subsidence Incidence Report 
+<div align="right">(<a>**Difficulty Level** -  ★★★★☆</a>)</div>
 
 Welcome to my Florida Subsidence Incidence Report! This report provides an analysis of subsidence incidents in Florida based on available data.
 
