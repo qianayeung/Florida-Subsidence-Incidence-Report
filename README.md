@@ -52,8 +52,6 @@ Finally, we'll summarise our findings and conclusions from the analysis. We'll d
 
 2. **Temporal Trends**: Analysing the temporal trends of subsidence incidents over time can reveal patterns and potential contributing factors. Identifying any significant increases or decreases in incidents over specific periods may prompt further investigation into underlying causes.
 
-In conclusion, the visualisations generated from the Florida Subsidence Incident Reports dataset provide valuable insights into the spatial and temporal patterns of subsidence incidents in Florida.
-
 ## How to Use
 To run the analysis and visualise your data, follow these steps:
 1. Clone or download the repository.
