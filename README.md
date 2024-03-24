@@ -61,7 +61,7 @@ To run the analysis and visualise your data, follow these steps:
 
 ## Contact 
 
- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/)[Back to Top](#top) <!-- Link to the top -->
+ [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/)[Back to Top](#top)<div align="right"> <!-- Link to the top -->
 
 
 
