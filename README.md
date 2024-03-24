@@ -59,7 +59,7 @@ To run the analysis and visualise your data, follow these steps:
 -  Open the Jupyter Notebook `Florida_Subsidence_Incident_Report.ipynb`.
 -  Run the code cells to execute the analysis and generate visualisations.
 
-<h2><a href="https://github.com/qianayeung/Florida-Subsidence-Incidence-Report/tree/main">Related</a><h2>
+## <h2><a href="https://github.com/qianayeung/Florida-Subsidence-Incidence-Report/tree/main">Related</a><h2>
 
 ## Contact 
 
