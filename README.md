@@ -48,16 +48,16 @@ We'll also analyse the temporal trends of subsidence incidents over time. This i
 ## Conclusion
 Finally, we'll summarise our findings and conclusions from the analysis. We'll discuss key insights, implications, and potential areas for further research.
 
-1. **Spatial Distribution**: The spatial distribution of subsidence incidents across Florida indicates areas of higher and lower susceptibility to subsidence. Hotspots of incidents may correlate with factors such as geological composition, land use, or groundwater extraction.
+- **Spatial Distribution**: The spatial distribution of subsidence incidents across Florida indicates areas of higher and lower susceptibility to subsidence. Hotspots of incidents may correlate with factors such as geological composition, land use, or groundwater extraction.
 
-2. **Temporal Trends**: Analysing the temporal trends of subsidence incidents over time can reveal patterns and potential contributing factors. Identifying any significant increases or decreases in incidents over specific periods may prompt further investigation into underlying causes.
+- **Temporal Trends**: Analysing the temporal trends of subsidence incidents over time can reveal patterns and potential contributing factors. Identifying any significant increases or decreases in incidents over specific periods may prompt further investigation into underlying causes.
 
 ## How to Use
 To run the analysis and visualise your data, follow these steps:
-1. Clone or download the repository.
-2. Install the required dependencies if required.
-3. Open the Jupyter Notebook `Florida_Subsidence_Incident_Report.ipynb`.
-4. Run the code cells to execute the analysis and generate visualisations.
+- Clone or download the repository.
+-  Install the required dependencies if required.
+-  Open the Jupyter Notebook `Florida_Subsidence_Incident_Report.ipynb`.
+-  Run the code cells to execute the analysis and generate visualisations.
 
 ## Contact 
 
