@@ -25,6 +25,22 @@ We'll visualise the geographic distribution of subsidence incidents using maps. 
 ### Temporal Analysis
 We'll also analyse the temporal trends of subsidence incidents over time. This involves time series analysis and trend visualisation.
 
+## [2D line & scarttered graphs](./ipynb/plotting.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/plotting'>![](./images/heatmaps.png)</a>
+<a href='./ipynb/plotting'>![image](https://github.com/qianayeung/Florida-Subsidence-Incidence-Report/assets/141664041/ebb3ebb4-56b0-4d1a-8903-85480ae11045)</a>
+
+
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb)][[GitHub Rendering](./ipynb/heatmaps.ipynb)]
+
+
+<br>
+
 ## Conclusion
 Finally, we'll summarise our findings and conclusions from the analysis. We'll discuss key insights, implications, and potential areas for further research.
 
