@@ -27,7 +27,7 @@ We'll visualise the geographic distribution of subsidence incidents using maps. 
 We'll also analyse the temporal trends of subsidence incidents over time. This involves time series analysis and trend visualisation.
 
 ## Conclusion
-Finally, we'll summarize our findings and conclusions from the analysis. We'll discuss key insights, implications, and potential areas for further research.
+Finally, we'll summarise our findings and conclusions from the analysis. We'll discuss key insights, implications, and potential areas for further research.
 
 ## How to Use
 To run the analysis and visualise your data, follow these steps:
