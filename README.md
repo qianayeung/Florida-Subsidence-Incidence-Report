@@ -61,8 +61,8 @@ To run the analysis and visualise your data, follow these steps:
 3. Open the Jupyter Notebook `Florida_Subsidence_Incident_Report.ipynb`.
 4. Run the code cells to execute the analysis and generate visualisations.
 
-## Contributor
-- [Qiana Yeung](https://github.com/your-username)
+## Contact
+- [Qiana Yeung](https://github.com/your-username)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/) 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
