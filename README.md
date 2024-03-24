@@ -62,7 +62,7 @@ To run the analysis and visualise your data, follow these steps:
 4. Run the code cells to execute the analysis and generate visualisations.
 
 ## Contact
-- [Qiana Yeung](https://github.com/your-username)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/) 
+- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/) [Qiana Yeung]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
