@@ -3,9 +3,9 @@
 Welcome to my Florida Subsidence Incidence Report! This report provides an analysis of subsidence incidents in Florida based on available data.
 
 ## Table of Contents
-1. [Data Analysis](#data-analysis)
-2. [Visualisation](#visualisation)
-3. [Conclusion](#conclusion)
+- [Data Analysis](#data-analysis)
+- [Visualisation](#visualisation)
+- [Conclusion](#conclusion)
 
 ## Data Analysis
 Here, we'll analyse the data related to subsidence incidents in Florida. We'll explore various attributes and trends to gain insights into the occurrence of subsidence.
