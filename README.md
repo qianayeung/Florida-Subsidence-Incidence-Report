@@ -32,10 +32,10 @@ We'll also analyse the temporal trends of subsidence incidents over time. This i
 <br>
 <br>
 
-<a href='./ipynb/plotting'>![](./images/heatmaps.png)</a>
+
 <a href='./ipynb/plotting'>![image](https://github.com/qianayeung/Florida-Subsidence-Incidence-Report/assets/141664041/ebb3ebb4-56b0-4d1a-8903-85480ae11045)</a>
 
-[[GitHub Rendering](./ipynb/plotting.ipynb)]
+[[GitHub Rendering](https://github.com/qianayeung/Florida-Subsidence-Incidence-Report/assets/141664041/ebb3ebb4-56b0-4d1a-8903-85480ae11045)]
 <br>
 
 <a href='./ipynb/plotting'>![image](https://github.com/qianayeung/Florida-Subsidence-Incidence-Report/assets/141664041/1e51c384-531d-474d-971e-fec0a843aa46)</a>
