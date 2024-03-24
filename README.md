@@ -32,10 +32,6 @@ Finally, we'll summarise our findings and conclusions from the analysis. We'll d
 
 2. **Temporal Trends**: Analysing the temporal trends of subsidence incidents over time can reveal patterns and potential contributing factors. Identifying any significant increases or decreases in incidents over specific periods may prompt further investigation into underlying causes.
 
-3. **Attribute Correlations**: Exploring correlations between subsidence incidents and other attributes such as soil type, land use, or proximity to water bodies can provide valuable insights into the factors influencing subsidence occurrences. Identifying strong correlations can help prioritise mitigation efforts in vulnerable areas.
-
-4. **Severity Analysis**: Examining the severity of subsidence incidents, such as depth or extent of subsidence, can aid in assessing the potential impact on infrastructure, property, and the environment. Understanding the severity of incidents can inform risk assessment and mitigation strategies.
-
 In conclusion, the visualisations generated from the Florida Subsidence Incident Reports dataset provide valuable insights into the spatial and temporal patterns of subsidence incidents in Florida.
 
 ## How to Use
