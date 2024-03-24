@@ -25,7 +25,7 @@ We'll visualise the geographic distribution of subsidence incidents using maps. 
 ### Temporal Analysis
 We'll also analyse the temporal trends of subsidence incidents over time. This involves time series analysis and trend visualisation.
 
-## [2D line & scarttered graphs](./ipynb/plotting.ipynb)
+## [2D line & scattered graphs](./ipynb/plotting.ipynb)
 
 [[back to top](https://github.com/qianayeung/Florida-Subsidence-Incidence-Report/blob/main/README.md)]
 
